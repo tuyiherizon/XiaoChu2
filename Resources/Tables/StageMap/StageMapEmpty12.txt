@@ -1,0 +1,4 @@
+Size=7,8
+Monster=111200,111201;111210,111211;111220
+Star=PassStage;RemainHP,8;Bomb,7
+HPBall=53,91,165

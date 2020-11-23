@@ -1,0 +1,4 @@
+Size=7,8
+Monster=100200,100201;100210;100220
+Star=PassStage;FightRound,11;Bomb,2
+HPBall=47,123

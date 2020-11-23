@@ -1,0 +1,83 @@
+"""ID""","""Name""","""Desc""","""Value1""","""Value2""","""Value3"""
+2000,login,,Press Any Key To Start,任意键开始,任意鍵開始
+2001,playerdata,moneylack,{0} is no enough,{0}不足,{0}不足
+2002,ui,,START,开始,開始
+2003,ui,,OK,确定,確定
+2004,ui,,UPGRADE,升级,升級
+2005,ui,,BUY,购买,購買
+2006,ui,,EQUIP,装备,裝備
+2007,ui,,COMBINE,合成,合成
+2008,ui,,EQUIPED,已装备,已裝備
+2009,ui,,MAX LEVEL,最高级,最高級
+2010,ui,,ADD,添加,添加
+2011,ui,,CANCEL,取消,取消
+2012,ui,,BASE,基础,基礎
+2013,ui,,FIRST,首次,首次
+2020,ui,,Revive？,复活？,復活？
+2021,ui,,Revive,复活,復活
+2022,ui,,Back,返回,返回
+2023,ui,,Charge sucess! Got {0} diamond.,充值成功！得到{0}钻石。,充值成功！得到{0}鑽石。
+2024,ui,,"Insufficient resources, buy it?",资源不足，是否购买？,資源不足，是否購買？
+2025,ui,,ENEMIES,敌人,敵人
+2026,ui,,YOU GOT A NEW ITEM,获得新道具,獲得新道具
+2027,ui,,TRY TO LEVEL ITEM,尝试升级道具,嘗試升級道具
+2100,ui,,Buy Elementary 1,购买1次初级,購買1次初級
+2101,ui,,Buy Elementary 5,购买5次初级,購買5次初級
+2102,ui,,Buy Advanced 1,购买1次高级,購買1次高級
+2103,ui,,Buy Advanced 5,购买5次高级,購買5次高級
+2104,ui,,get level 1~2 gem,获得1～2级,獲得1～2級
+2105,ui,,get level 1~2 gem,获得1～2级,獲得1～2級
+2106,ui,,get level 2~3 gem,获得2～3级,獲得2～3級
+2107,ui,,get level 2~3 gem,获得2～3级,獲得2～3級
+11000,stage,starCondition,Pass Stage,通关,通關
+11001,stage,starCondition,Finish stage in {0} round,{0}回合内通关,{0}回合內通關
+11002,stage,starCondition,Remain {0}% HP and pass stage,剩余{0}%HP通关,剩餘{0}%HP通關
+11003,stage,starCondition,act {0} bombs,激活{0}颗特殊果,激活{0}顆特殊果
+11004,stage,starCondition,elimite {0} traps,消除{0}个陷阱,消除{0}個陷阱
+20001,Weapon,weaponSkill,BombNormal,炸弹,炸彈
+20002,Weapon,weaponSkill,LineNormal,飞弹,飛彈
+20003,Weapon,weaponSkill,BombEnlarge,破片,破片
+20004,Weapon,weaponSkill,LineEnlarge,瞄准,瞄準
+20005,Weapon,weaponSkill,BombHitTrap,轰击,轟擊
+20006,Weapon,weaponSkill,LineHitTrap,穿透,穿透
+20007,Weapon,weaponSkill,BombReact,循环,循環
+20008,Weapon,weaponSkill,LineReact,留声,留聲
+20009,Weapon,weaponSkill,BombLighting,扩散,擴散
+20010,Weapon,weaponSkill,LineLighting,回声,迴聲
+20011,Weapon,weaponSkill,BombAuto,引信,引信
+20012,Weapon,weaponSkill,LineAuto,迷雾,迷霧
+21001,Weapon,weaponSkill,BombNormal,同时消除4颗相同颜色时获得炸弹,同時消除4顆相同顏色時獲得炸彈
+21002,Weapon,weaponSkill,LineNormal,同时消除4颗相同颜色时获得飞弹,同時消除4顆相同顏色時獲得飛彈
+21003,Weapon,weaponSkill,BombEnlarge,炸弹增加爆炸范围,炸彈增加爆炸範圍
+21004,Weapon,weaponSkill,LineEnlarge,飞弹增加爆炸范围,飛彈增加爆炸範圍
+21005,Weapon,weaponSkill,BombHitTrap,炸弹额外攻击一次陷阱,炸彈額外攻擊一次陷阱
+21006,Weapon,weaponSkill,LineHitTrap,飞弹可穿透陷阱,飛彈可穿透陷阱
+21007,Weapon,weaponSkill,BombReact,炸弹以一定概率再次爆炸,炸彈以一定概率再次爆炸
+21008,Weapon,weaponSkill,LineReact,飞弹触发后再次小范围爆炸,飛彈觸發後再次小範圍爆炸
+21009,Weapon,weaponSkill,BombLighting,炸弹变为闪电,炸彈變為閃電
+21010,Weapon,weaponSkill,LineLighting,飞弹撞击后爆炸,飛彈撞擊後爆炸
+21011,Weapon,weaponSkill,BombAuto,炸弹自动触发,炸彈自動觸發
+21012,Weapon,weaponSkill,LineAuto,飞弹变为无属性,飛彈變為無屬性
+100001,commonitem,money,Gold,金币,金幣
+100002,commonitem,money,Diamond,钻石,鑽石
+100003,commonitem,money,GemFrag,碎片,碎片
+120001,commonitem,gembox,Random Gem Lv.1,随机宝石1,隨機寶石1
+120002,commonitem,gembox,Random Gem Lv.2,随机宝石2,隨機寶石2
+120003,commonitem,gembox,Random Gem Lv.3,随机宝石3,隨機寶石3
+120004,commonitem,gembox,Random Gem Lv.4,随机宝石4,隨機寶石4
+210001,gem,gemattr,FireDefence,受到火伤害减半,受到火傷害減半
+210002,gem,gemattr,IceDefence,受到冰伤害减半,受到冰傷害減半
+210003,gem,gemattr,WindDefence,受到风伤害减半,受到風傷害減半
+210004,gem,gemattr,LightDefence,受到光伤害减半,受到光傷害減半
+210005,gem,gemattr,DarkDefence,受到暗伤害减半,受到暗傷害減半
+210006,gem,gemattr,FireEnhance,火伤害不会被克制,火傷害不會被克制
+210007,gem,gemattr,IceEnhance,冰伤害不会被克制,冰傷害不會被克制
+210008,gem,gemattr,WindEnhance,风伤害不会被克制,風傷害不會被克制
+210009,gem,gemattr,DoubleEnhance,光伤害不会被克制,光傷害不會被克制
+210010,gem,gemattr,HalfEnhance,暗伤害不会被克制,暗傷害不會被克制
+210011,gem,gemattr,HPEnhance,HP回复增加,HP回復增加
+210012,gem,gemattr,FireDouble,火攻击额外克制火属性,火攻擊額外克制火屬性
+210013,gem,gemattr,IceDouble,冰攻击额外克制冰属性,冰攻擊額外克製冰屬性
+210014,gem,gemattr,WindDouble,风攻击额外克制风属性,風攻擊額外克制風屬性
+210015,gem,gemattr,LightDouble,光攻击额外克制光属性,光攻擊額外克制光屬性
+210016,gem,gemattr,DarkDouble,暗攻击额外克制暗属性,暗攻擊額外克制暗屬性

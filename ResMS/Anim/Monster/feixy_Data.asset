@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: feixy_Data
+  m_EditorClassIdentifier: 
+  dataName: feixy
+  dragonBonesJSON: {fileID: 4900000, guid: 7029069737e7d0f478757399f9ecd7c1, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 52b71d2d3a6afdb47b0b8f72bc5462ab, type: 3}
+    texture: {fileID: 2800000, guid: f420b0260a7cb024cb2ba9a0c3b1508b, type: 3}
+    material: {fileID: 2100000, guid: ce972d4cec28fc14a84a5c330dc62bd8, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 65690b1bdd4ee744cbf21496723370c8, type: 2}

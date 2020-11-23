@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: huaihuai_Data
+  m_EditorClassIdentifier: 
+  dataName: huaihuai
+  dragonBonesJSON: {fileID: 4900000, guid: db332e2dc862dde498246d50e8399e7b, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 4b05813de84448742ae05af760a7ac48, type: 3}
+    texture: {fileID: 2800000, guid: 4a3798a2ca092fc4cbd69338bd97c677, type: 3}
+    material: {fileID: 2100000, guid: 663a925a4ff39bd49a4a46e10e4f7fc1, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 37135874d93c6fb4281f8170bc4e97d0, type: 2}

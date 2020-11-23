@@ -1,0 +1,10 @@
+﻿"""ID""","""Name""","""Desc""","""NameStrDict""","""DescStrDict""","""Icon""","""Model""","""Quality""","""DropItem""","""DropScale""","""StackNum"""
+#money,,,,,,,,,,
+10001,gold,,100001,100001,MoneyGold,,2,,1,0
+10002,diamond,,100002,100002,MoneyDiamond,,3,,1,0
+10003,gemfragment,,100003,100003,MoneyMat,,2,,1,0
+#normal,,,,,,,,,,
+20001,gemfragment,,120001,120001,MoneyMat,,2,,1,0
+20002,gemfragment,,120002,120002,MoneyMat,,2,,2,1
+20003,gemfragment,,120003,120003,MoneyMat,,3,,3,2
+20004,gemfragment,,120004,120004,MoneyMat,,4,,4,3

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <enumColumn>
+    <enumName>None</enumName>
+    <enumCode>NONE</enumCode>
+    <enumValue>0</enumValue>
+    <enumDesc>枚举必须保留0值</enumDesc>
+  </enumColumn>
+  <enumColumn>
+    <enumName>FIRE</enumName>
+    <enumCode>FIRE</enumCode>
+    <enumValue>1</enumValue>
+    <enumDesc>FIRE</enumDesc>
+  </enumColumn>
+  <enumColumn>
+    <enumName>ICE</enumName>
+    <enumCode>ICE</enumCode>
+    <enumValue>2</enumValue>
+    <enumDesc>ICE</enumDesc>
+  </enumColumn>
+  <enumColumn>
+    <enumName>WIND</enumName>
+    <enumCode>WIND</enumCode>
+    <enumValue>3</enumValue>
+    <enumDesc>WIND</enumDesc>
+  </enumColumn>
+  <enumColumn>
+    <enumName>LIGHT</enumName>
+    <enumCode>LIGHT</enumCode>
+    <enumValue>4</enumValue>
+    <enumDesc>LIGHT</enumDesc>
+  </enumColumn>
+  <enumColumn>
+    <enumName>DARK</enumName>
+    <enumCode>DARK</enumCode>
+    <enumValue>5</enumValue>
+    <enumDesc>DARK</enumDesc>
+  </enumColumn>
+</root>

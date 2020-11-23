@@ -1,0 +1,1431 @@
+fileFormatVersion: 2
+guid: 98b42d03c40446b4daf77afaf438192f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xg_tex_0
+    21300002: xg_tex_1
+    21300004: xg_tex_2
+    21300006: xg_tex_3
+    21300008: xg_tex_4
+    21300010: xg_tex_5
+    21300012: xg_tex_6
+    21300014: xg_tex_7
+    21300016: xg_tex_8
+    21300018: xg_tex_9
+    21300020: xg_tex_10
+    21300022: xg_tex_11
+    21300024: xg_tex_12
+    21300026: xg_tex_13
+    21300028: xg_tex_14
+    21300030: xg_tex_15
+    21300032: xg_tex_16
+    21300034: xg_tex_17
+    21300036: xg_tex_18
+    21300038: xg_tex_19
+    21300040: xg_tex_20
+    21300042: xg_tex_21
+    21300044: xg_tex_22
+    21300046: xg_tex_23
+    21300048: xg_tex_24
+    21300050: xg_tex_25
+    21300052: xg_tex_26
+    21300054: xg_tex_27
+    21300056: xg_tex_28
+    21300058: xg_tex_29
+    21300060: xg_tex_30
+    21300062: xg_tex_31
+    21300064: xg_tex_32
+    21300066: xg_tex_33
+    21300068: xg_tex_34
+    21300070: xg_tex_35
+    21300072: xg_tex_36
+    21300074: xg_tex_37
+    21300076: xg_tex_38
+    21300078: xg_tex_39
+    21300080: xg_tex_40
+    21300082: xg_tex_41
+    21300084: xg_tex_42
+    21300086: xg_tex_43
+    21300088: xg_tex_44
+    21300090: xg_tex_45
+    21300092: xg_tex_46
+    21300094: xg_tex_47
+    21300096: xg_tex_48
+    21300098: xg_tex_49
+    21300100: xg_tex_50
+    21300102: xg_tex_51
+    21300104: xg_tex_52
+    21300106: xg_tex_53
+    21300108: xg_tex_54
+    21300110: xg_tex_55
+    21300112: xg_tex_56
+    21300114: xg_tex_57
+    21300116: xg_tex_58
+    21300118: xg_tex_59
+    21300120: xg_tex_60
+    21300122: xg_tex_61
+    21300124: xg_tex_62
+    21300126: xg_tex_63
+    21300128: xg_tex_64
+    21300130: xg_tex_65
+    21300132: xg_tex_66
+    21300134: xg_tex_67
+    21300136: xg_tex_68
+    21300138: xg_tex_69
+    21300140: xg_tex_70
+    21300142: xg_tex_71
+    21300144: xg_tex_72
+    21300146: xg_tex_73
+    21300148: xg_tex_74
+    21300150: xg_tex_75
+    21300152: xg_tex_76
+    21300154: xg_tex_77
+    21300156: xg_tex_78
+    21300158: xg_tex_79
+    21300160: xg_tex_80
+    21300162: xg_tex_81
+    21300164: xg_tex_82
+    21300166: xg_tex_83
+    21300168: xg_tex_84
+    21300170: xg_tex_85
+    21300172: xg_tex_86
+    21300174: xg_tex_87
+    21300176: xg_tex_88
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xg_tex_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 916
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 950
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 937
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 823
+        width: 64
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 937
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 965
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 954
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 916
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 818
+        width: 125
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 823
+        width: 64
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 829
+        width: 57
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 875
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 892
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 900
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 865
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 789
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 755
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 828
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 832
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 788
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 803
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 735
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 778
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 770
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 744
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 757
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 728
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 613
+        width: 69
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 626
+        width: 65
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 739
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 741
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_31
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 709
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_32
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 703
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 638
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 661
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_35
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 631
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 606
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 648
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 646
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 603
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 673
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 670
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 591
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 614
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_45
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 560
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 556
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 607
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 486
+        width: 52
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 491
+        width: 37
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 556
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 566
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 511
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_55
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 416
+        width: 65
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_56
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 550
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_58
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 451
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 482
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_60
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 495
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 329
+        width: 91
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_62
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 430
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 161
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 334
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_65
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 372
+        width: 22
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 345
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 272
+        width: 125
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 277
+        width: 81
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_69
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 388
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 285
+        width: 51
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_71
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 300
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 310
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_73
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 276
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_74
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 279
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 218
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_76
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 224
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 256
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_78
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 68
+        width: 69
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 68
+        width: 125
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_80
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 42
+        width: 96
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_81
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 121
+        width: 56
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_82
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 203
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 125
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 113
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_85
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 18
+        width: 59
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_86
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 41
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_87
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 41
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xg_tex_88
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

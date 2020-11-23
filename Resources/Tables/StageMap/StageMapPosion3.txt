@@ -1,0 +1,8 @@
+0,0=14,1
+0,1=14,1
+6,0=14,1
+6,1=14,1
+Size=7,8
+Monster=105300,105301;105310
+Star=PassStage;FightRound,9;Bomb,1
+HPBall=12,57,102

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: pipi_Data
+  m_EditorClassIdentifier: 
+  dataName: pipi
+  dragonBonesJSON: {fileID: 4900000, guid: 84565710d3f936c4aae5221da6e3b0fa, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 581e778ad686da2428c1d9c451f87f03, type: 3}
+    texture: {fileID: 2800000, guid: e2e026cb7c63dc24bb5a479b83278f6e, type: 3}
+    material: {fileID: 2100000, guid: a8379483faf0dfd47a7d6400efb36bc7, type: 2}
+    uiMaterial: {fileID: 2100000, guid: 20ea518bab8d08e4bad522cca7bd4298, type: 2}

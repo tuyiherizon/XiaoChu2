@@ -1,0 +1,9 @@
+3,1=11,2
+3,2=11,2
+3,3=11,2
+3,4=14,1
+3,5=14,1
+Size=7,8
+Monster=106600,106601,106602
+Star=PassStage;FightRound,9;Bomb,3
+HPBall=35,72

@@ -1,0 +1,4 @@
+Size=7,8
+Monster=100100;100110,100111
+Star=PassStage;RemainHP,6;Bomb,1
+HPBall=79

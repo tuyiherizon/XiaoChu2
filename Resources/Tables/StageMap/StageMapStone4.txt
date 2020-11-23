@@ -1,0 +1,8 @@
+0,3=13,1
+1,4=13,1
+6,3=13,1
+5,4=13,1
+Size=7,8
+Monster=108900,108901
+Star=PassStage;RemainHP,7;Bomb,2
+HPBall=18,29
